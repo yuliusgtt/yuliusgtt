@@ -1,8 +1,12 @@
+# hello 👋
+
 - 👋 Hi, I’m @yuliusgtt
-- 👀 I’m interested in android, php, java, etc
-- 🌱 I’m currently learning android, php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : email : yulius.gtt@gmail.com
+- 👀 interested in many things like
+- 🌱 still learning on programming (i can't stop either 🥲) 
+- 💻 Currently working in website development (native / framework) 
+- 📫 How to reach me : 
+     This github 🤷
+     email : yulius.gtt@gmail.com
 
 <!---
 yuliusgtt/yuliusgtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
