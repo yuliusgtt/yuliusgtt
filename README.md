@@ -15,6 +15,7 @@
 - 📫 How to reach me : 
      - This github 🤷
      - [My Facebook](https://www.facebook.com/yulius.gatot.purwoko)
+     - [My LinkedIn](https://www.linkedin.com/in/yulius-gatot-purwoko-a589bb197/)(never update it for long time, but still active)
     
 
 <!---
