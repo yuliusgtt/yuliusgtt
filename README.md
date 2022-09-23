@@ -2,18 +2,18 @@
 
 - 👋 Hi, I’m @yuliusgtt
 - 🌱 still learning on programming (i can't stop either 🥲) 
-- 💻 Currently working in website development (native / framework)
-     - primary, frontend and testing. but sometimes fullstack.
+- 💻 Currently working in website development (w/o framework)
+     - primary frontend and testing some webservices. but sometimes fullstack.
 - 👀 interested in many things like
      - building website, android app, desktop app
      - testing new android app and desktop app
+     - testing custom android roms
      - memes
      - surfing (in internet)
-     - animals (all kind)
+     - animals
      - landscapes
 - 📫 How to reach me : 
      - This github 🤷
-     - email : yulius.gtt@gmail.com
     
 
 <!---
