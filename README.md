@@ -1,5 +1,5 @@
 # hello 👋
-
+<!---
 - 👋 Hi, I’m @yuliusgtt
 - 🌱 still learning on programming (i can't stop either 🥲) 
 - 💻 Currently working in website development (w/o framework)
@@ -18,7 +18,7 @@
      - [My LinkedIn](https://www.linkedin.com/in/yulius-gatot-purwoko-a589bb197/) (never update it for long time, but still active)
     
 
-<!---
+
 yuliusgtt/yuliusgtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
